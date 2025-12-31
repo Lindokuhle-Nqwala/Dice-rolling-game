@@ -2,6 +2,7 @@
 
 A simple Python console game that simulates rolling two six-sided dice. The game continues until the user chooses to quit, making it a great beginner project to practice Python fundamentals.
 
+
 Features
 
     Rolls two dice (values from 1–6)
@@ -14,13 +15,16 @@ Features
 
 
 How to Play
-  Enter y to roll the dice
+
+  - Enter y to roll the dice
   
-  Enter n to stop the game
+  - Enter n to stop the game
   
-  Any other input will show an error message
+  - Any other input will show an error message
+
 
 Example Output
+
   Roll the dice? (y/n): y
   
   3, 5
@@ -33,19 +37,20 @@ Example Output
   
   Thank you for playing
 
+
 What You’ll Learn
 
-  Using the random module
+  - Using the random module
   
-  While loops
+  - While loops
   
-  Conditional statements
+  - Conditional statements
   
-  Handling user input
+  - Handling user input
   
-  Writing clean beginner Python code
+  - Writing clean beginner Python code
 
 
 Author
 
-  Lindokuhle Nqwala
+  - Lindokuhle Nqwala
