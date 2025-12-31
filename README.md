@@ -38,7 +38,7 @@ Example Output
   Thank you for playing
 
 
-What You’ll Learn
+What I Learned
 
   - Using the random module
   
